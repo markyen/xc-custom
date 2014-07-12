@@ -96,7 +96,8 @@
   - role: cask_package
     package_name: atom
   - role: cask_package
-    package_name: sublime-text
+    tap: caskroom/versions
+    package_name: sublime-text3
   - role: cask_package
     package_name: intellij-idea
   - role: cask_package
