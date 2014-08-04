@@ -115,7 +115,7 @@
   - role: cask_package
     package_name: evernote
   - role: cask_package
-    package_name: notational-velocity
+    package_name: nvalt
   ## tooling
   - role: cask_package
     package_name: the-unarchiver
